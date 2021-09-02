@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Vesper+Libre&display=swap');
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #90c7ed;
+}
+
+main{
+	width: 75%;
+	height: 600px;
+	margin-right: auto;
+	margin-left: auto;	
+	font-family: 'Vesper Libre', serif;
+}
+
+header{
+	width: 100%;
+	height: 75px;
+	background-color: #b63328;
+}
+
+nav{
+	width: 100%;
+	height: 10px;
+	background-color: #facb39 ;
+}
+
+section{
+	width: 100%;
+	height: 465px ;
+	background: url(fondo.jpg) 0 0 no-repeat;
+	background-size: cover;
+}
+
+footer{
+	width: 100%;
+	height: 50px;
+	background-color: #267c40 ;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+.sobremi{
+	width: 40%;
+	height: 425px;
+	float: left;
+	padding: 1%;
+}
+
+#parrafo1{
+	color: #000000;
+	background-color: rgb(144, 199, 237);
+	padding: 2%;
+	text-align: center;
+	column-count: 2;
+	column-gap: 10px;
+	column-rule: 3px dashed #b63328;
+	border-color: #facb39;
+	border-width: 2px;
+	border-style: solid;
+	box-shadow: 5px 5px 5px #facb39
+}
+
+h3{
+	color: #ffffff;
+	text-align: center;
+	text-shadow: 3px 3px 1px #b63328;
+	font-size: 30px;
+}
+
+#guido1{
+	padding-top: 13%;
+	padding-left: 1%;
+	padding-right: 3%;
+	float: left;
+}
+
+.logros{
+	float: left;
+	width: 17%;
+	height: 425px;
+	padding-top: 1%;
+}
+
+h4{
+	color: #ffffff;
+	text-align: center;
+	text-shadow: 3px 3px 1px #b63328;
+	font-size: 30px;
+}
+
+#parrafo2{
+	background-color: #facb39;
+	text-align: center;
+	border-color: rgb(144, 199, 237);
+	border-width: 2px;
+	border-style: solid;
+	box-shadow: 5px 5px 5px rgb(144, 199, 237);
+	color: #ffffff;
+	font-size: 15px;
+	padding: 2%;
+}
+
+#logro1{
+	color: #b63328;
+}
+
+#logro2{
+	color: #ffffff;
+}
+
+#logro3{
+	color: #267c40;
+}
+
+#logro4{
+	color: #b63328;
+}
+
+#logro5{
+	color: #ffffff;
+}
+
+#logro6{
+	color: #267c40;
+}
+
+#logro7{
+	color: #b63328;
+}
+
+#guido2{
+	float: right;
+	padding-top: 8%;
+}
+
+h2{
+	float: left;
+	font-size: 20px;
+	padding: 1%;
+	color: #000000;
+}
+
+h5{
+	float: left;
+	font-size: 25px;
+	text-align: center;
+	padding-left: 26%;
+}
+
+#up{
+	float: right;
+}
